@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "main.js": {
+        "memory": 1024,
+        "includeFiles": "db.json"
+      }
+    }
+  }
